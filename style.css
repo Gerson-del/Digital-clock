@@ -32,6 +32,7 @@
     position: absolute;
     pointer-events: none;
     animation: floatUp linear;
+    overflow: hidden;
 }
 
 .inner-heart {
@@ -131,7 +132,6 @@ body {
     
     .heart{
         max-width: 100%;
-        overflow: hidden;
     }
     
 }
