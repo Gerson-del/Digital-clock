@@ -124,4 +124,14 @@ body {
     .inner-heart {
         font-size: 20px;
     }
+    
+    body {
+        padding: 10px;
+    }
+    
+    .heart{
+        max-width: 100%;
+        overflow: hidden;
+    }
+    
 }
